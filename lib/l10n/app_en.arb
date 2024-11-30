@@ -1,0 +1,20 @@
+{
+    "appTitle": "FinEd India",
+    "@appTitle": {
+      "description": "The title of the application"
+    },
+    "welcomeMessage": "Welcome to Financial Education",
+    "@welcomeMessage": {
+      "description": "The welcome message on the home screen"
+    },
+    "continueLearning": "Continue Learning",
+    "@continueLearning": {
+      "description": "Label for the section showing in-progress lessons"
+    },
+    "aiSuggestion": "AI Suggestion",
+    "@aiSuggestion": {
+      "description": "Label for AI-generated suggestions"
+    }
+  }
+  
+  
